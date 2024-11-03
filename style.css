@@ -418,6 +418,9 @@ h2 {
         font-size: 18px;
     
     }
+    .menu a{
+        font-size: small;
+    }
 }
 
 @media (max-width: 480px) {
@@ -438,6 +441,9 @@ h2 {
 .menu ul {
     flex-direction: row;
 }
+    .menu a{
+        font-size: small;
+    }
     .project-card, .exp-card {
         width: 100%;
         padding: 8px;
